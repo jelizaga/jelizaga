@@ -2,7 +2,9 @@
 
 🌐 [Portfolio](https://joelelizaga.com) | 👔 [LinkedIn](https://linkedin.com/joel-elizaga)
 
-<img src="https://i.imgur.com/cqYLNEY.jpeg" alt="moss" />
+<div overflow="hidden" width="100%" height="100px">
+  <img src="https://i.imgur.com/cqYLNEY.jpeg" alt="moss" object-fit="cover" width="100%" />
+</div>
 
 ## 💼 Experience
 
