@@ -2,8 +2,14 @@
 
 🌐 [Portfolio](https://joelelizaga.com) | 👔 [LinkedIn](https://linkedin.com/joel-elizaga)
 
-<div style="overflow:hidden; height:100px; width:100%;">
-  <img src="https://i.imgur.com/cqYLNEY.jpeg" alt="moss" style="object-fit:cover;" />
+<div 
+  style="overflow:hidden; height:100px; width:100%;"
+>
+  <img 
+    src="https://i.imgur.com/cqYLNEY.jpeg" 
+    alt="moss"
+    style="object-fit:cover;"
+  />
 </div>
 
 ## 💼 Experience
