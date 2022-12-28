@@ -1,19 +1,19 @@
 # ❋ Joel Elizaga | UX Engineer
 
-🌐 [Portfolio](https://joelelizaga.com) | 👔 [LinkedIn](https://linkedin.com/joel-elizaga)
+I'm a UX engineer practicing an HCI-informed fusion of *design* and
+*development*.
 
-<div 
-  style="overflow:hidden; height:100px; width:100%;"
->
-  <img 
-    src="https://i.imgur.com/cqYLNEY.jpeg" 
-    alt="moss"
-    style="object-fit:cover;"
-  />
-</div>
-<div align="center">
-    <img src="css.svg" width="400" height="400" alt="css-in-readme">
-</div>
+My aim is to build technologies that are both **usable** and **useful**.
+
+[Let's build something!](https://joelelizaga.com/#contact)
+
+🌐 [Website](https://joelelizaga.com) | 👔 [LinkedIn](https://linkedin.com/joel-elizaga)
+
+<img 
+  src="https://i.imgur.com/cqYLNEY.jpeg" 
+  alt="A mossy rock resting in a forest."
+/>
+
 ## 💼 Experience
 
 ### UX Designer | Infosys Ltd. | 2019 - 2021
