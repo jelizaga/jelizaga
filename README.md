@@ -102,12 +102,12 @@ Personas
 
 #### Technologies
 
-Figma
-Adobe xD
-InVision
-Sketch
-Adobe Illustrator
-Adobe InDesign
+Figma |
+Adobe xD |
+InVision |
+Sketch |
+Adobe Illustrator |
+Adobe InDesign |
 Adobe Premiere Pro
 
 ### ⌨️ Engineering
@@ -116,18 +116,18 @@ Adobe Premiere Pro
 
 ##### Languages & Libraries
 
-HTML
-CSS
-JavaScript
-Java
-Bash
-React
-GraphQL
-Astro
+HTML |
+CSS |
+JavaScript |
+Java |
+Bash |
+React |
+GraphQL |
+Astro |
 SolidJS
 
 ##### Software
 
-`git`
-Visual Studio Code
+`git` |
+Visual Studio Code |
 Vim
