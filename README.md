@@ -66,8 +66,8 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 ### 🏆 Achievements
 
+![Fence posts for a buck & rail fence.](/img/fence-posts.jpg)
+
 #### [*President's Volunteer Service Award - Gold*](https://en.wikipedia.org/wiki/President%27s_Volunteer_Service_Award) | AmeriCorps NCCC
 
 Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
-
-![Fence posts for a buck & rail fence.](/img/fence-posts.jpg)
