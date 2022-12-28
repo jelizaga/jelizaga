@@ -13,29 +13,29 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 ## 💼 Experience
 
+![Tacoma Narrows bridge.](/img/tacoma-narrows-bridge.jpg)
+
 ### UX Designer | Infosys Ltd. | 2019 - 2021
 
 ### Corps Member | AmeriCorps NCCC | 2018
 
 ### Video Production Intern | AnswerDash | 2016 - 2017
 
-![Tacoma Narrows bridge.](/img/tacoma-narrows-bridge.jpg)
-
 ## 🧮 Education
-
-### BSc. Informatics: Human-Computer Interaction | University of Washington | 2017
 
 ![The front steps of Suzzallo Library at the University of Washington.](/img/uw.jpg)
 
+### BSc. Informatics: Human-Computer Interaction | University of Washington | 2017
+
 ## 📘 Certifications
+
+![Seagulls on a rocky seashore.](/img/seagulls.jpg)
 
 ### Full-Stack Web Development | University of Washington | 2022
 
 ### Exploring GraphQL | edX | 2022
 
 ### Strategic Design | Rhode Island School of Design x Infosys | 2019
-
-![Seagulls on a rocky seashore.](/img/seagulls.jpg)
 
 ## 🏆 Achievements
 
