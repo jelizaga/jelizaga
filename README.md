@@ -7,9 +7,7 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 [Let's build something!](https://joelelizaga.com/#contact)
 
-<p style="text-align: center;">
-  🌐 [Website](https://joelelizaga.com) | 👔 [LinkedIn](https://linkedin.com/joel-elizaga) | ✉️ [Contact](https://joelelizaga.com/#contact) | ✒️ [Blog](https://joelelizaga.com/blog)
-</p>
+🌐 [Website](https://joelelizaga.com) | 👔 [LinkedIn](https://linkedin.com/joel-elizaga) | ✉️ [Contact](https://joelelizaga.com/#contact) | ✒️ [Blog](https://joelelizaga.com/blog)
 
 ![A mossy rock resting on the forest floor.](mossy-rock.jpg)
 
