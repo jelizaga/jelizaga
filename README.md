@@ -31,7 +31,6 @@ My aim is to build technologies that are both **usable** and **useful**.
     * [*Strategic Design* | Rhode Island School of Design x Infosys | 2019](#strategic-design--rhode-island-school-of-design-x-infosys--2019)
   * [🏆 Achievements](#-achievements)
     * [*President's Volunteer Service Award - Gold* | AmeriCorps NCCC](#presidents-volunteer-service-award---gold--americorps-nccc)
-* [Techniques & Technologies](#techniques--technologies)
   * [🖲️ UX](#-ux)
     * [Techniques](#techniques)
     * [Technologies](#technologies)
@@ -80,7 +79,10 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
-## Techniques & Technologies
+<details>
+  <summary>
+    <h2>Techniques & Technologies</h2>
+  </summary>
 
 ### 🖲️ UX
 
@@ -131,3 +133,4 @@ Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 * git
 * Visual Studio Code
 * Vim
+</details>
