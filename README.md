@@ -123,6 +123,7 @@ Adobe Premiere Pro
 HTML |
 CSS |
 JavaScript |
+NodeJS |
 Java |
 Bash |
 React |
