@@ -105,7 +105,7 @@ Personas
 #### Technologies
 
 Figma |
-Adobe xD |
+Adobe XD |
 InVision |
 Sketch |
 Adobe Illustrator |
