@@ -50,7 +50,7 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 ![The front steps of Suzzallo Library at the University of Washington.](/img/uw.jpg)
 
-#### [BSc. *Informatics: Human-Computer Interaction](https://ischool.uw.edu/programs/informatics/focus-areas#hci)* | University of Washington | 2017
+#### [BSc. *Informatics: Human-Computer Interaction*](https://ischool.uw.edu/programs/informatics/focus-areas#hci) | University of Washington | 2017
 
 ### 📘 Certifications
 
