@@ -11,32 +11,34 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 ![A mossy rock resting on the forest floor.](/img/mossy-rock.jpg)
 
-## 💼 Experience
+## Resume
+
+### 💼 Experience
 
 ![Tacoma Narrows bridge.](/img/tacoma-narrows-bridge.jpg)
 
-### UX Designer | Infosys Ltd. | 2019 - 2021
+#### UX Designer | Infosys Ltd. | 2019 - 2021
 
-### Corps Member | AmeriCorps NCCC | 2018
+#### Corps Member | AmeriCorps NCCC | 2018
 
-### Video Production Intern | AnswerDash | 2016 - 2017
+#### Video Production Intern | AnswerDash | 2016 - 2017
 
-## 🧮 Education
+### 🧮 Education
 
 ![The front steps of Suzzallo Library at the University of Washington.](/img/uw.jpg)
 
-### BSc. Informatics: Human-Computer Interaction | University of Washington | 2017
+#### BSc. Informatics: Human-Computer Interaction | University of Washington | 2017
 
-## 📘 Certifications
+### 📘 Certifications
 
 ![Seagulls on a rocky seashore.](/img/seagulls.jpg)
 
-### Full-Stack Web Development | University of Washington | 2022
+#### Full-Stack Web Development | University of Washington | 2022
 
-### Exploring GraphQL | edX | 2022
+#### Exploring GraphQL | edX | 2022
 
-### Strategic Design | Rhode Island School of Design x Infosys | 2019
+#### Strategic Design | Rhode Island School of Design x Infosys | 2019
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 ![Fence posts for a buck & rail fence.](/img/fence-posts.jpg)
