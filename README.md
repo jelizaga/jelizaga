@@ -32,8 +32,12 @@ My aim is to build technologies that are both **usable** and **useful**.
   * [🏆 Achievements](#-achievements)
     * [*President's Volunteer Service Award - Gold* | AmeriCorps NCCC](#presidents-volunteer-service-award---gold--americorps-nccc)
 * [Technologies & Skills](#technologies--skills)
-  * [⌨️ Engineering](#-engineering)
   * [🖲️ UX](#-ux)
+    * [Techniques](#techniques)
+    * [Technologies](#technologies)
+  * [⌨️ Engineering](#-engineering)
+    * [Languages & Libraries](#languages--libraries)
+    * [Technologies](#technologies-1)
 
 <!-- vim-markdown-toc -->
 
@@ -77,6 +81,50 @@ Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
 ## Technologies & Skills
 
+### 🖲️ UX
+
+#### Techniques 
+
+* User research
+* Usability research
+* Heuristic evaluation
+* Card-sorting
+* IxD grammar
+* UX writing
+* High-fidelity prototyping
+* Low-fidelity prototyping
+* Wireframing
+* User journey mapping
+* User flows
+* Information architecture
+* Personas
+
+#### Technologies
+
+* Figma
+* Adobe xD
+* InVision
+* Sketch
+* Adobe Illustrator
+* Adobe InDesign
+* Adobe Premiere Pro
+
 ### ⌨️ Engineering
 
-### 🖲️ UX
+#### Languages & Libraries
+
+* HTML
+* CSS
+* JavaScript
+* Java
+* Bash
+* React
+* GraphQL
+* Astro
+* SolidJS
+
+#### Technologies
+
+* git
+* Visual Studio Code
+* Vim
