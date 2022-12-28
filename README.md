@@ -31,6 +31,7 @@ My aim is to build technologies that are both **usable** and **useful**.
     * [*Strategic Design* | Rhode Island School of Design x Infosys | 2019](#strategic-design--rhode-island-school-of-design-x-infosys--2019)
   * [🏆 Achievements](#-achievements)
     * [*President's Volunteer Service Award - Gold* | AmeriCorps NCCC](#presidents-volunteer-service-award---gold--americorps-nccc)
+* [Techniques & Technologies](#techniques--technologies)
   * [🖲️ UX](#-ux)
     * [Techniques](#techniques)
     * [Technologies](#technologies)
@@ -79,38 +80,35 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
-<details>
-  <summary>
-    ## Techniques & Technologies
-  </summary>
+## Techniques & Technologies
 
 ### 🖲️ UX
 
 #### Techniques 
 
-* User research
-* Usability research
-* Heuristic evaluation
-* Card-sorting
-* IxD grammar
-* UX writing
-* High-fidelity prototyping
-* Low-fidelity prototyping
-* Wireframing
-* User journey mapping
-* User flows
-* Information architecture
-* Personas
+User research |
+Usability research |
+Heuristic evaluation |
+Card-sorting |
+IxD grammar |
+UX writing |
+High-fidelity prototyping |
+Low-fidelity prototyping |
+Wireframing |
+User journey mapping |
+User flows |
+Information architecture |
+Personas
 
 #### Technologies
 
-* Figma
-* Adobe xD
-* InVision
-* Sketch
-* Adobe Illustrator
-* Adobe InDesign
-* Adobe Premiere Pro
+Figma
+Adobe xD
+InVision
+Sketch
+Adobe Illustrator
+Adobe InDesign
+Adobe Premiere Pro
 
 ### ⌨️ Engineering
 
@@ -118,19 +116,18 @@ Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
 ##### Languages & Libraries
 
-* HTML
-* CSS
-* JavaScript
-* Java
-* Bash
-* React
-* GraphQL
-* Astro
-* SolidJS
+HTML
+CSS
+JavaScript
+Java
+Bash
+React
+GraphQL
+Astro
+SolidJS
 
 ##### Software
 
-* git
-* Visual Studio Code
-* Vim
-</details>
+`git`
+Visual Studio Code
+Vim
