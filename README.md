@@ -19,17 +19,18 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 * [Resume](#resume)
   * [💼 Experience](#-experience)
-    * [UX Designer | Infosys Ltd. | 2019 - 2021](#ux-designer--infosys-ltd--2019---2021)
-    * [Corps Member | AmeriCorps NCCC | 2018](#corps-member--americorps-nccc--2018)
-    * [Video Production Intern | AnswerDash | 2016 - 2017](#video-production-intern--answerdash--2016---2017)
+    * [*UX Designer* | Infosys Ltd. | 2019 - 2021](#ux-designer--infosys-ltd--2019---2021)
+    * [*Corps Member* | AmeriCorps NCCC | 2018](#corps-member--americorps-nccc--2018)
+    * [*Video Production Intern* | AnswerDash | 2016 - 2017](#video-production-intern--answerdash--2016---2017)
   * [🧮 Education](#-education)
-    * [*BSc. Informatics: Human-Computer Interaction* | University of Washington | 2017](#bsc-informatics-human-computer-interaction--university-of-washington--2017)
+    * [BSc. *Informatics: Human-Computer Interaction* | University of Washington | 2017](#bsc-informatics-human-computer-interaction--university-of-washington--2017)
   * [📘 Certifications](#-certifications)
-    * [Full-Stack Web Development | University of Washington | 2022](#full-stack-web-development--university-of-washington--2022)
-    * [Foundations of UX Writing | University of Washington | 2022](#foundations-of-ux-writing--university-of-washington--2022)
-    * [Exploring GraphQL | edX | 2022](#exploring-graphql--edx--2022)
-    * [Strategic Design | Rhode Island School of Design x Infosys | 2019](#strategic-design--rhode-island-school-of-design-x-infosys--2019)
+    * [*Full-Stack Web Development* | University of Washington | 2022](#full-stack-web-development--university-of-washington--2022)
+    * [*Foundations of UX Writing* | University of Washington | 2022](#foundations-of-ux-writing--university-of-washington--2022)
+    * [*Exploring GraphQL* | edX | 2022](#exploring-graphql--edx--2022)
+    * [*Strategic Design* | Rhode Island School of Design x Infosys | 2019](#strategic-design--rhode-island-school-of-design-x-infosys--2019)
   * [🏆 Achievements](#-achievements)
+    * [*President's Volunteer Service Award - Gold* | AmeriCorps NCCC](#presidents-volunteer-service-award---gold--americorps-nccc)
 
 <!-- vim-markdown-toc -->
 
@@ -39,30 +40,34 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 ![Tacoma Narrows bridge.](/img/tacoma-narrows-bridge.jpg)
 
-#### UX Designer | Infosys Ltd. | 2019 - 2021
+#### *UX Designer* | [Infosys Ltd.](https://www.infosys.com/) | 2019 - 2021
 
-#### Corps Member | AmeriCorps NCCC | 2018
+#### *Corps Member* | [AmeriCorps NCCC](https://www.americorps.gov/serve/americorps/americorps-nccc) | 2018
 
-#### Video Production Intern | AnswerDash | 2016 - 2017
+#### *Video Production Intern* | [AnswerDash](https://www.answerdash.com/) | 2016 - 2017
 
 ### 🧮 Education
 
 ![The front steps of Suzzallo Library at the University of Washington.](/img/uw.jpg)
 
-#### *[BSc. Informatics: Human-Computer Interaction](https://ischool.uw.edu/programs/informatics/focus-areas#hci)* | University of Washington | 2017
+#### [BSc. *Informatics: Human-Computer Interaction](https://ischool.uw.edu/programs/informatics/focus-areas#hci)* | University of Washington | 2017
 
 ### 📘 Certifications
 
 ![Seagulls on a rocky seashore.](/img/seagulls.jpg)
 
-#### Full-Stack Web Development | University of Washington | 2022
+#### [*Full-Stack Web Development*](https://www.pce.uw.edu/certificates/full-stack-development-with-javascript) | University of Washington | 2022
 
-#### Foundations of UX Writing | University of Washington | 2022
+#### [*Foundations of UX Writing*](https://continuumuw.badgr.com/public/assertions/WZWqp8jgT7il5qqFisZZow) | University of Washington | 2022
 
-#### Exploring GraphQL | edX | 2022
+#### [*Exploring GraphQL*](https://courses.edx.org/certificates/4b10563a4c3c4991865e8c834cc1253d) | edX | 2022
 
-#### Strategic Design | Rhode Island School of Design x Infosys | 2019
+#### [*Strategic Design*](https://www.infosys.com/newsroom/press-releases/2018/design-partnership-RISD.html) | Rhode Island School of Design x Infosys | 2019
 
 ### 🏆 Achievements
+
+#### [*President's Volunteer Service Award - Gold*](https://en.wikipedia.org/wiki/President%27s_Volunteer_Service_Award) | AmeriCorps NCCC
+
+Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
 ![Fence posts for a buck & rail fence.](/img/fence-posts.jpg)
