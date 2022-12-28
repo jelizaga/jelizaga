@@ -31,13 +31,14 @@ My aim is to build technologies that are both **usable** and **useful**.
     * [*Strategic Design* | Rhode Island School of Design x Infosys | 2019](#strategic-design--rhode-island-school-of-design-x-infosys--2019)
   * [🏆 Achievements](#-achievements)
     * [*President's Volunteer Service Award - Gold* | AmeriCorps NCCC](#presidents-volunteer-service-award---gold--americorps-nccc)
-* [Technologies & Skills](#technologies--skills)
+* [Techniques & Technologies](#techniques--technologies)
   * [🖲️ UX](#-ux)
     * [Techniques](#techniques)
     * [Technologies](#technologies)
   * [⌨️ Engineering](#-engineering)
-    * [Languages & Libraries](#languages--libraries)
     * [Technologies](#technologies-1)
+      * [Languages & Libraries](#languages--libraries)
+      * [Software](#software)
 
 <!-- vim-markdown-toc -->
 
@@ -79,7 +80,7 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
-## Technologies & Skills
+## Techniques & Technologies
 
 ### 🖲️ UX
 
@@ -111,7 +112,9 @@ Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
 ### ⌨️ Engineering
 
-#### Languages & Libraries
+#### Technologies
+
+##### Languages & Libraries
 
 * HTML
 * CSS
@@ -123,7 +126,7 @@ Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 * Astro
 * SolidJS
 
-#### Technologies
+##### Software
 
 * git
 * Visual Studio Code
