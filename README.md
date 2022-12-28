@@ -84,6 +84,8 @@ Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
 ### 🖲️ UX
 
+![Lush brush by the seaside.](/img/seaside-brush.jpg)
+
 #### Techniques 
 
 User research |
@@ -111,6 +113,8 @@ Adobe InDesign |
 Adobe Premiere Pro
 
 ### ⌨️ Engineering
+
+![Sand dunes on the beach.](/img/sand-dunes.jpg)
 
 #### Technologies
 
