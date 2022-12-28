@@ -27,7 +27,7 @@ My aim is to build technologies that are both **usable** and **useful**.
   * [📘 Certifications](#-certifications)
     * [*Full-Stack Web Development* | University of Washington | 2022](#full-stack-web-development--university-of-washington--2022)
     * [*Foundations of UX Writing* | University of Washington | 2022](#foundations-of-ux-writing--university-of-washington--2022)
-    * [*Exploring GraphQL* | edX | 2022](#exploring-graphql--edx--2022)
+    * [*Exploring GraphQL* | The Linux Foundation | 2022](#exploring-graphql--the-linux-foundation--2022)
     * [*Strategic Design* | Rhode Island School of Design x Infosys | 2019](#strategic-design--rhode-island-school-of-design-x-infosys--2019)
   * [🏆 Achievements](#-achievements)
     * [*President's Volunteer Service Award - Gold* | AmeriCorps NCCC](#presidents-volunteer-service-award---gold--americorps-nccc)
@@ -60,7 +60,7 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 #### [*Foundations of UX Writing*](https://continuumuw.badgr.com/public/assertions/WZWqp8jgT7il5qqFisZZow) | University of Washington | 2022
 
-#### [*Exploring GraphQL*](https://courses.edx.org/certificates/4b10563a4c3c4991865e8c834cc1253d) | edX | 2022
+#### [*Exploring GraphQL*](https://courses.edx.org/certificates/4b10563a4c3c4991865e8c834cc1253d) | The Linux Foundation | 2022
 
 #### [*Strategic Design*](https://www.infosys.com/newsroom/press-releases/2018/design-partnership-RISD.html) | Rhode Island School of Design x Infosys | 2019
 
