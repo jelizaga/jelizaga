@@ -11,6 +11,10 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 🌐 [Website](https://joelelizaga.com) | 👔 [LinkedIn](https://linkedin.com/joel-elizaga) | ✉️ [Contact](https://joelelizaga.com/#contact) | ✒️ [Blog](https://joelelizaga.com/blog)
 
+---
+
+### Contents
+
 <!-- vim-markdown-toc GFM -->
 
 * [Resume](#resume)
