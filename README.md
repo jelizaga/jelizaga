@@ -30,7 +30,7 @@ My aim is to build technologies that are both **usable** and **useful**.
     * [*Exploring GraphQL* | The Linux Foundation | 2022](#exploring-graphql--the-linux-foundation--2022)
     * [*Strategic Design* | Rhode Island School of Design x Infosys | 2019](#strategic-design--rhode-island-school-of-design-x-infosys--2019)
   * [🏆 Achievements](#-achievements)
-    * [*President's Volunteer Service Award - Gold* | AmeriCorps NCCC](#presidents-volunteer-service-award---gold--americorps-nccc)
+    * [*President's Volunteer Service Award - Gold* | AmeriCorps NCCC | 2018](#presidents-volunteer-service-award---gold--americorps-nccc--2018)
 * [Techniques & Technologies](#techniques--technologies)
   * [🖲️ UX](#-ux)
     * [Techniques](#techniques)
@@ -76,7 +76,7 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 ![Fence posts for a buck & rail fence.](/img/fence-posts.jpg)
 
-#### [*President's Volunteer Service Award - Gold*](https://en.wikipedia.org/wiki/President%27s_Volunteer_Service_Award) | AmeriCorps NCCC
+#### [*President's Volunteer Service Award - Gold*](https://en.wikipedia.org/wiki/President%27s_Volunteer_Service_Award) | AmeriCorps NCCC | 2018
 
 Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
