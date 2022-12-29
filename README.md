@@ -124,15 +124,19 @@ HTML |
 CSS |
 JavaScript |
 NodeJS |
-Java |
 Bash |
 React |
+Express |
+MongoDB |
 GraphQL |
+Java |
 Astro |
-SolidJS
+SolidJS |
+Markdown
 
 ##### Software
 
 `git` |
 Visual Studio Code |
-Vim
+Vim |
+Linux
