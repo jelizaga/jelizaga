@@ -25,7 +25,7 @@ My aim is to build technologies that are both **usable** and **useful**.
   * [🧮 Education](#-education)
     * [BSc. *Informatics: Human-Computer Interaction* | University of Washington | 2017](#bsc-informatics-human-computer-interaction--university-of-washington--2017)
   * [📘 Certifications](#-certifications)
-    * [*Full-Stack Web Development* | University of Washington | 2022](#full-stack-web-development--university-of-washington--2022)
+    * [*Full-Stack Development with JavaScript* | University of Washington | 2022](#full-stack-development-with-javascript--university-of-washington--2022)
     * [*Foundations of UX Writing* | University of Washington | 2022](#foundations-of-ux-writing--university-of-washington--2022)
     * [*Exploring GraphQL* | The Linux Foundation | 2022](#exploring-graphql--the-linux-foundation--2022)
     * [*Strategic Design* | Rhode Island School of Design x Infosys | 2019](#strategic-design--rhode-island-school-of-design-x-infosys--2019)
@@ -64,7 +64,7 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 ![Seagulls on a rocky seashore.](/img/seagulls.jpg)
 
-#### [*Full-Stack Web Development*](https://www.pce.uw.edu/certificates/full-stack-development-with-javascript) | University of Washington | 2022
+#### [*Full-Stack Development with JavaScript*](https://www.pce.uw.edu/certificates/full-stack-development-with-javascript) | University of Washington | 2022
 
 #### [*Foundations of UX Writing*](https://continuumuw.badgr.com/public/assertions/WZWqp8jgT7il5qqFisZZow) | University of Washington | 2022
 
