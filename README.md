@@ -9,7 +9,7 @@ My aim is to build technologies that are both **usable** and **useful**.
 
 [Let's build something!](https://joelelizaga.com/#contact)
 
-🌐 [Website](https://joelelizaga.com) | 👔 [LinkedIn](https://linkedin.com/joel-elizaga) | ✉️ [Contact](https://joelelizaga.com/#contact) | ✒️ [Blog](https://joelelizaga.com/blog)
+🌐 [Website](https://joelelizaga.com) | 👔 [LinkedIn](https://linkedin.com/joel-elizaga) | ✉️ [Contact](https://joelelizaga.com/#contact) | ✒️ [Blog](https://joelelizaga.com/blog) | 📃 [Resume](https://joelelizaga.com/doc/joel_elizaga_resume.pdf)
 
 ---
 
