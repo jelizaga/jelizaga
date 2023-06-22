@@ -91,28 +91,28 @@ Awarded for completing 1,900+ service hours while in AmeriCorps NCCC.
 
 #### Techniques 
 
-User research |
-Usability research |
-Heuristic evaluation |
-Card-sorting |
-IxD grammar |
-UX writing |
-High-fidelity prototyping |
-Low-fidelity prototyping |
-Wireframing |
-User journey mapping |
-User flows |
-Information architecture |
+User research ·
+Usability research ·
+Heuristic evaluation ·
+Card-sorting ·
+IxD grammar ·
+UX writing ·
+High-fidelity prototyping ·
+Low-fidelity prototyping ·
+Wireframing ·
+User journey mapping ·
+User flows ·
+Information architecture ·
 Personas
 
 #### Technologies
 
-Figma |
-Adobe XD |
-InVision |
-Sketch |
-Adobe Illustrator |
-Adobe InDesign |
+Figma ·
+Adobe XD ·
+InVision ·
+Sketch ·
+Adobe Illustrator ·
+Adobe InDesign ·
 Adobe Premiere Pro
 
 ### ⌨️ Engineering
@@ -123,23 +123,23 @@ Adobe Premiere Pro
 
 ##### Languages & Libraries
 
-HTML |
-CSS |
-JavaScript |
-NodeJS |
-Bash |
-React |
-Express |
-MongoDB |
-GraphQL |
-Java |
-Astro |
-SolidJS |
+HTML ·
+CSS ·
+JavaScript ·
+NodeJS ·
+Bash ·
+React ·
+Express ·
+MongoDB ·
+GraphQL ·
+Java ·
+Astro ·
+SolidJS ·
 Markdown
 
 ##### Software
 
-`git` |
-Visual Studio Code |
-Vim |
+`git` ·
+Visual Studio Code ·
+Vim ·
 Linux
