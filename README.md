@@ -25,6 +25,7 @@ My aim is to build technologies that are both **usable** and **useful**.
   * [🧮 Education](#-education)
     * [BSc. *Informatics: Human-Computer Interaction* | University of Washington | 2017](#bsc-informatics-human-computer-interaction--university-of-washington--2017)
   * [📘 Certifications](#-certifications)
+    * [*Foundations of Humane Technology* | Center for Humane Technology | 2023](#foundations-of-humane-technology--center-for-humane-technology--2023)
     * [*Full-Stack Development with JavaScript* | University of Washington | 2022](#full-stack-development-with-javascript--university-of-washington--2022)
     * [*Foundations of UX Writing* | University of Washington | 2022](#foundations-of-ux-writing--university-of-washington--2022)
     * [*Exploring GraphQL* | The Linux Foundation | 2022](#exploring-graphql--the-linux-foundation--2022)
@@ -63,6 +64,8 @@ My aim is to build technologies that are both **usable** and **useful**.
 ### 📘 Certifications
 
 ![Seagulls on a rocky seashore.](/img/seagulls.jpg)
+
+#### [*Foundations of Humane Technology*](https://www.credential.net/aedd7839-5e00-463d-8328-d1d6028a21b8) | Center for Humane Technology | 2023
 
 #### [*Full-Stack Development with JavaScript*](https://www.pce.uw.edu/certificates/full-stack-development-with-javascript) | University of Washington | 2022
 
